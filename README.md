@@ -1,20 +1,38 @@
-# FatFox Network Security Tool
+# 🦊 FatFox Network Security Tool
 
-FatFox is a modular network reconnaissance and vulnerability scanning toolkit built for cybersecurity testing.
+FatFox is a modular **network reconnaissance and security scanning toolkit** built for cybersecurity professionals and students.
 
-## Features
+It automates common penetration testing tasks like:
 
 - Host discovery
 - Port scanning
 - Service detection
 - Vulnerability scanning
-- Web vulnerability scanning
-- Subdomain discovery
-- Exploit suggestions
+- Web security testing
+- Subdomain reconnaissance
+- Target intelligence gathering
 
-## Installation
+---
+
+# ⚡ Features
+
+✔ Host discovery  
+✔ Fast port scanning  
+✔ Service detection  
+✔ Vulnerability scanning  
+✔ Web vulnerability scan (Nikto)  
+✔ Subdomain reconnaissance  
+✔ Exploit suggestions  
+✔ Target intelligence (ISP, ASN, MAC, OS guess)
+
+---
+
+
+---
+
+# 🚀 Installation
+
+Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/fatfox-network-toolkit
-cd fatfox-network-toolkit
-bash install.sh
+git clone https://github.com/YOUR_USERNAME/fatfox-network-security-tool.git
